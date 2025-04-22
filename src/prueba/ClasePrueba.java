@@ -6,6 +6,7 @@ public class ClasePrueba {
 		// TODO Auto-generated method stub
 		System.out.println("Primer mensaje de nuestro programa");
 		System.out.println("Segundo mensaje de nuestro programa");
+		System.out.println("Tercer mensaje de nuetro programa");	
 	}
 
 }
