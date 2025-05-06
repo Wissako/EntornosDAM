@@ -10,7 +10,7 @@ public class ClasePrueba {
 		System.out.println("Cuarto mensaje de nuestro programa");
 		System.out.println("Quinto mensaje de nuestro programa");
 		System.out.println("6");
-		System.out.println("rwerwerw");
+		
 	}
 
 }
