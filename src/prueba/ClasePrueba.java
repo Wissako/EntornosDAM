@@ -7,6 +7,7 @@ public class ClasePrueba {
 		System.out.println("Primer mensaje de nuestro programa");
 		System.out.println("Segundo mensaje de nuestro programa");
 		System.out.println("Tercer mensaje de nuetro programa");	
+		System.out.println("hola");
 	}
 
 }
