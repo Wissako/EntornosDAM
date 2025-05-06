@@ -9,6 +9,7 @@ public class ClasePrueba {
 		System.out.println("Tercer mensaje de nuestro programa");	
 		System.out.println("Cuarto mensaje de nuestro programa");
 		System.out.println("Quinto mensaje de nuestro programa");
+		System.out.println("6");
 	}
 
 }
